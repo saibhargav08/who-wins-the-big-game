@@ -16,3 +16,6 @@ Score:
 Rank:
 
 56 public leaderborad(https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-predict-big-game-winner/leaderboard/who-wins-the-big-game-b082f0e8/page/2/
+
+# Note
+Executed notebook is not committed to the repo
